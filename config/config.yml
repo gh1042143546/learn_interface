@@ -1,0 +1,10 @@
+http:
+    baseurl: www.baidu.com
+    port = 8080
+    timeout = 10.0
+log:
+    file_name: test.log      # 输出日志文件名
+    backup: 5                # 备份名
+    console_level: WARNING  # 控制台输出等级
+    file_level: DEBUG       # 文件输出等级
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'  # 打印输出格式
