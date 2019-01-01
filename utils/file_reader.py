@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 import yaml
 import os
 class YamlReader:
@@ -11,5 +12,5 @@ class YamlReader:
         date = list((yaml.load_all(file)))
         return date
 if __name__== '__main__':
-    reader = YamlReader('/Users/lyg/PycharmProjects/learn_interface/config/config.yml')
+    reader = YamlReader('')
     print(reader.read_date())
