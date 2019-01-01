@@ -9,6 +9,7 @@ DRIVER_PATH = os.path.join(BASE_PATH, 'drivers')
 LOG_PATH = os.path.join(BASE_PATH, 'log')
 REPORT_PATH = os.path.join(BASE_PATH, 'report')
 BASEURL_PATH = os.path.join(BASE_PATH,'local_url')
+
 class Config:
     def __init__(self,config=CONFIG_FILE):
         self.config = YamlReader(config).read_date()
