@@ -9,8 +9,9 @@ from utils.config import Config,BASEURL_PATH
 
 class Httpclient():
     def __init__(self,url):
-       self.url = Config().get("local_url")
+       self.url = url
+           #Config().get("local_url")
 
 if __name__ == "__main__":
-    c = Httpclient()
-    print(c.self.url)
+    c = Httpclient('yurl')
+    print(c.url)

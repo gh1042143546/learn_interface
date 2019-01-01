@@ -3,6 +3,7 @@ import os
 from utils.file_reader import YamlReader
 
 BASE_PATH = os.path.split(os.path.dirname(os.path.abspath(__file__)))[0]
+print(BASE_PATH)
 CONFIG_FILE = os.path.join(BASE_PATH, 'config', 'config')
 DATA_PATH = os.path.join(BASE_PATH, 'data')
 DRIVER_PATH = os.path.join(BASE_PATH, 'drivers')
