@@ -1,5 +1,5 @@
-local_url: http://www.baidu.com/app    #²âÊÔÍøÖ·
-api_url: http://xxxxxx/
+base_url: http://imap-pv.saicmotor.com/iMapCoServer   #²âÊÔÍøÖ·
+api_url:
 images:
  - images/0.jpg
  - images/1.jpg

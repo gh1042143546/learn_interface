@@ -8,12 +8,12 @@ DATA_PATH = os.path.join(BASE_PATH, 'data')
 DRIVER_PATH = os.path.join(BASE_PATH, 'drivers')
 LOG_PATH = os.path.join(BASE_PATH, 'log')
 REPORT_PATH = os.path.join(BASE_PATH, 'report')
-BASEURL_PATH = os.path.join(BASE_PATH,'local_url')
+BASEURL_PATH = os.path.join(BASE_PATH,'base_url')
 
 class Config:
     def __init__(self,config=CONFIG_FILE):
         self.config = YamlReader(config).read_date()
-        print(self.config)
+        #print(self.config)
     def get(self, element, index=0):
         """
         yaml是可以通过'---'分节的。用YamlReader读取返回的是一个list，第一项是默认的节，如果有多个节，可以传入index来获取。
