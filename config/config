@@ -1,4 +1,4 @@
-base_url: http://imap-pv.saicmotor.com/iMapCoServer   #测试网址主体
+base_url: http://imap-pv.saicmotor.com/iMapCoServer
 api_url:
 images:
  - images/0.jpg
@@ -11,8 +11,8 @@ images:
  - images/7.jpg
 num: 800
 log:
-    file_name: test.log      # 输出日志文件名
-    backup: 5                # 备份名
-    console_level: WARNING  # 控制台输出等级
-    file_level: DEBUG       # 文件输出等级
-    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'  # 打印输出格式
+    file_name: test.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'

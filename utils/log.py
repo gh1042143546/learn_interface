@@ -44,6 +44,8 @@ class Logger(object):
             self.logger.addHandler(file_handler)
         return self.logger
 
+logger = Logger().get_logger()
+
 if __name__ == "__main__":
     logger = Logger().get_logger()
     logger.info('dd')
