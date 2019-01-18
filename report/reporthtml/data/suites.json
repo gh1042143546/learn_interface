@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test",
+    "children" : [ {
+      "name" : ".Users.lyg.PycharmProjects.learn_interface.test.case.test_baidu.TestBaiDuHTTP.test_tk",
+      "uid" : "46130707edc2aeca",
+      "parentUid" : "ff2b04dbb9c449a4d40723f51d841925",
+      "status" : "passed",
+      "time" : {
+        "start" : 1547801652363,
+        "stop" : 1547801652475,
+        "duration" : 112
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ff2b04dbb9c449a4d40723f51d841925"
+  } ]
+}

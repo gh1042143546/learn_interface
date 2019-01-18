@@ -43,6 +43,3 @@ class Httpclient():
 if __name__ == "__main__":
     c = Httpclient('/login.jhtml','GET')
     b = c.sendRequest({"userAccount":"admin","password":"Pass123456"})
-
-    #c.set_param({"userAccount":"admin","password":"Pass123456"})
-    #print(c.get())

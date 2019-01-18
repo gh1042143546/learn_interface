@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : ".Users.lyg.PycharmProjects.learn_interface.test.case.test_baidu.TestBaiDuHTTP.test_tk",
+    "uid" : "46130707edc2aeca",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1547801652363,
+      "stop" : 1547801652475,
+      "duration" : 112
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

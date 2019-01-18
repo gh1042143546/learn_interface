@@ -1,0 +1,20 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1547801652363" stop="1547801652475">
+  <name>test</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1547801652363" status="passed" stop="1547801652475">
+      <name>.Users.lyg.PycharmProjects.learn_interface.test.case.test_baidu.TestBaiDuHTTP.test_tk</name>
+      <attachments>
+        <attachment source="35d439f7-b10d-4998-80ee-6bceb0ca80bc-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11773-MainThread"/>
+        <label name="host" value="LYGdeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

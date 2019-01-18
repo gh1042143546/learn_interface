@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LYGdeMacBook-Air.local",
+    "children" : [ {
+      "name" : "11773-MainThread",
+      "children" : [ {
+        "name" : ".Users.lyg.PycharmProjects.learn_interface.test.case.test_baidu.TestBaiDuHTTP.test_tk",
+        "uid" : "46130707edc2aeca",
+        "parentUid" : "e6b175469ccc0ca91c13d64419116c56",
+        "status" : "passed",
+        "time" : {
+          "start" : 1547801652363,
+          "stop" : 1547801652475,
+          "duration" : 112
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e6b175469ccc0ca91c13d64419116c56"
+    } ],
+    "uid" : "89fd2d9229400f2c5624380aff81eeeb"
+  } ]
+}
