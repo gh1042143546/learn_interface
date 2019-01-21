@@ -1,9 +1,20 @@
-- name:
+-
     dec: 正常登录
     url: login.jhtml
     method: GET
-    name:
+    date:
         username: admin
         password: Pass123456
-
-
+    check:
+        - sign
+        - userId
+-
+    dec: 密码错误
+    url: login.jhtml
+    method: GET
+    date:
+        username: admin
+        password: Pass1234567
+    check:
+        - sign
+        - userId
