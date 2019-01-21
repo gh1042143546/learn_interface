@@ -1,0 +1,9 @@
+- name:
+    dec: 正常登录
+    url: login.jhtml
+    method: GET
+    name:
+        username: admin
+        password: Pass123456
+
+

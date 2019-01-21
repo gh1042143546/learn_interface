@@ -11,6 +11,16 @@ class YamlReader:
         file = open(self.yamlfilePath)
         date = list((yaml.load_all(file)))
         return date
+    def read_case(self):
+        files = os.listdir(self.yamlfilePath)
+        date = []
+        for i in files:
+            file = open(os.path.join(self.yamlfilePath,i))
+            b = yaml.load(file)
+            date.append(b)
+        return date
+        #print(os.path.join())
 if __name__== '__main__':
-    reader = YamlReader('')
-    print(reader.read_date())
+    reader = YamlReader('../date/cases')
+    print(reader.read_case())
+    #print(reader.read_date())
