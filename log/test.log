@@ -1,118 +1,588 @@
-2019-01-17 15:39:08,934 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-17 15:39:08,937 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"7FFb94902FFF42019f44f2Db00B54CeA"}
-2019-01-17 15:39:52,778 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-17 15:39:52,780 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"45B33399E29A4c8e88F4AC38eb410501"}
-2019-01-17 17:27:39,570 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-17 17:27:39,573 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"f653BC7E3F3D4eC88f9017b3b9b551FB"}
-2019-01-17 17:47:07,935 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-17 17:47:07,937 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"47d23e550f37478d8B694cE394cC45eC"}
-2019-01-17 17:48:31,188 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-17 17:48:31,190 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"c4da43a4B1654629AB1F7C5861F091FD"}
-2019-01-17 17:48:45,501 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-17 17:48:45,501 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"2E0764f75794415faB1863520B7881E9"}
-2019-01-17 17:49:45,072 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-17 17:49:45,074 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"919E0BD47A6043EdBE0B2D37eF58c09A"}
-2019-01-18 10:15:07,770 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 10:15:07,771 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"EAd9372E1318444f8008AdF31c5A319B"}
-2019-01-18 15:19:36,653 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 15:19:36,655 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"52c564aC4eCf4d569D1c06A0994EF2BE"}
-2019-01-18 15:19:36,655 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"52c564aC4eCf4d569D1c06A0994EF2BE"}
-2019-01-18 15:20:27,672 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 15:20:27,673 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"A03cFa6608Ee467BbB6dF5FF5992a862"}
-2019-01-18 15:20:27,673 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"A03cFa6608Ee467BbB6dF5FF5992a862"}
-2019-01-18 15:28:25,470 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 15:28:25,472 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"099754C6324B44C982a631e7D6eC72bB"}
-2019-01-18 15:28:25,472 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"099754C6324B44C982a631e7D6eC72bB"}
-2019-01-18 15:31:27,398 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 15:31:27,400 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"Ef901600e9704245A961b5cC40F1B4bF"}
-2019-01-18 15:31:27,400 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"Ef901600e9704245A961b5cC40F1B4bF"}
-2019-01-18 15:32:03,536 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 15:32:03,536 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"C040fF9dE24e4353878C73AF72836166"}
-2019-01-18 15:32:03,536 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"C040fF9dE24e4353878C73AF72836166"}
-2019-01-18 15:33:14,519 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 15:33:14,521 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"20B22a683F8f4bb287D234878dF24C85"}
-2019-01-18 15:33:14,521 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"20B22a683F8f4bb287D234878dF24C85"}
-2019-01-18 15:33:41,984 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 15:33:41,986 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"728b076B5eeC4bAC8f2d2e73eBED8901"}
-2019-01-18 15:33:41,987 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"728b076B5eeC4bAC8f2d2e73eBED8901"}
-2019-01-18 15:35:56,367 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 15:35:56,368 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"b2BC0928Db554D6Ab50d6A49a79DAC9B"}
-2019-01-18 15:35:56,369 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"b2BC0928Db554D6Ab50d6A49a79DAC9B"}
-2019-01-18 15:37:21,430 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 15:37:21,431 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"b5d432E2992E43BD8247cCEbA8E97D53"}
-2019-01-18 15:37:21,432 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"b5d432E2992E43BD8247cCEbA8E97D53"}
-2019-01-18 15:43:46,141 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 15:43:46,143 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"82c8F585CEdF48DC8E25B50C0b6fe665"}
-2019-01-18 15:43:46,144 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"82c8F585CEdF48DC8E25B50C0b6fe665"}
-2019-01-18 15:44:32,294 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 15:44:32,295 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"3a9f739F05Ea43E7A7414FC42AcB5296"}
-2019-01-18 15:44:32,296 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"3a9f739F05Ea43E7A7414FC42AcB5296"}
-2019-01-18 15:44:52,254 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 15:44:52,255 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"519E8C24fC164B21Be85b995e9FBcAb3"}
-2019-01-18 15:50:54,364 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 15:50:54,366 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"62dE8E34CE3647a780F1B8408205D294"}
-2019-01-18 15:50:54,366 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"62dE8E34CE3647a780F1B8408205D294"}
-2019-01-18 15:51:54,108 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 15:51:54,110 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"F5185AD03E624E669325098183945a4E"}
-2019-01-18 15:51:54,110 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"F5185AD03E624E669325098183945a4E"}
-2019-01-18 15:54:27,638 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 15:54:27,641 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"178a28FEE5EE4E3BA0509F6C49c6Df70"}
-2019-01-18 15:54:27,641 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"178a28FEE5EE4E3BA0509F6C49c6Df70"}
-2019-01-18 16:00:42,812 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 16:00:42,813 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"5B37BB4d44C14f8fBf6B10250Bd3eaC1"}
-2019-01-18 16:00:42,814 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"5B37BB4d44C14f8fBf6B10250Bd3eaC1"}
-2019-01-18 16:01:58,498 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 16:01:58,500 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"155C56F434d542ca9E79a71370AF526B"}
-2019-01-18 16:01:58,500 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"155C56F434d542ca9E79a71370AF526B"}
-2019-01-18 16:07:26,261 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 16:07:26,264 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"e084A120053F4D09850c6Aa2Df7B891F"}
-2019-01-18 16:10:47,355 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 16:10:47,358 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"5E62F2fEb5634d3082930F75C12E65DB"}
-2019-01-18 16:10:47,358 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"5E62F2fEb5634d3082930F75C12E65DB"}
-2019-01-18 16:11:29,914 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 16:11:29,915 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"24A27f90C4A840BCb0C17AA9694B52fA"}
-2019-01-18 16:11:29,915 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"24A27f90C4A840BCb0C17AA9694B52fA"}
-2019-01-18 16:12:24,062 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 16:12:24,064 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"BB780EA06120483E8F0594FF0e447000"}
-2019-01-18 16:12:24,064 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"BB780EA06120483E8F0594FF0e447000"}
-2019-01-18 16:48:12,067 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 16:48:12,070 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"525C916ee6444B46B5967D84403763e6"}
-2019-01-18 16:48:12,070 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"525C916ee6444B46B5967D84403763e6"}
-2019-01-18 16:49:25,659 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 16:49:25,661 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"F28B901691A54cAdA30dC457375EC7A0"}
-2019-01-18 16:49:25,661 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"F28B901691A54cAdA30dC457375EC7A0"}
-2019-01-18 16:54:12,472 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-2019-01-18 16:54:12,473 - InterFace - INFO - 请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"1F7D67F7cE1348909E905eBD9C791Ff6"}
-2019-01-18 16:54:12,473 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"1F7D67F7cE1348909E905eBD9C791Ff6"}
+2019-01-22 15:04:20,395 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.html
+2019-01-22 15:04:20,395 - InterFace - INFO - 请求成功: <Response [200]>
+
+
+
+
+
+<html>
+<head>
+
+<link rel="shortcut icon" href="/iMapCoServer/theme/layout/img/logo/SAIC_logo.ico" type="image/x-icon" />
+<title>提示</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+
+<script src="/iMapCoServer/theme/global/plugins/jquery-1.9.1.min.js" type="text/javascript" charset="UTF-8"></script>
+<link href="/iMapCoServer/theme/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<script src="/iMapCoServer/theme/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<!-- 图片引入Start -->
+				<div align="center" class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 140px;">
+					<img id="btnScan" src="/iMapCoServer/theme/global/img/Error_Occur.png" width="200px" height="200px">
+				</div>
+				<!-- 图片引入End -->
+				<!--没有权限Start -->
+				<div id="7003" align="center" style="font-size: 20px;" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">对不起 , 您没有权限访问!</div>
+				<!--没有权限End -->
+				<!-- 其他错误/异常Start -->
+				<div id="9000" align="center" style="font-size: 20px;" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">系统错误 , 请联系管理员!</div>
+				<!-- 其他错误/异常End -->
+				<!-- 错误信息隐藏域Start -->
+				<div style="display: none;">
+					<h1>Error Occur!</h1>
+					<P>The time on the server is: Tue Jan 22 15:04:20 CST 2019.</P>
+					<p>
+						moduleName:
+						Authentication
+						<br /> exceptionMessage:
+						超时或未登录，请重新登录系统
+
+						<!-- 用来存放异常值Start -->
+						<input class="messageValue" type="hidden" value="超时或未登录，请重新登录系统
+" />
+						<!-- 用来存放异常值End -->
+					</p>
+					<!-- 错误原因Start -->
+					<p style="display: none">
+						saic.security.authentication.exception.SessionTimeAlmostUpException: 超时或未登录，请重新登录系统
+
+	at saic.security.filter.LoginSecurityFilter.CheckPrivilege(LoginSecurityFilter.java:189)
+	at saic.security.filter.LoginSecurityFilter.doFilter(LoginSecurityFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at common.filter.CacheFilter.doFilter(CacheFilter.java:48)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:957)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:620)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+					</p>
+					<!-- 错误原因End -->
+				</div>
+				<!-- 错误信息隐藏域End -->
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+<script type="text/javascript">
+	var errCode = '-7004';
+	// 获得登陆设备和语言
+	var browser = {
+		versions : function() {
+			var u = navigator.userAgent, app = navigator.appVersion;
+			return {
+				// 移动终端浏览器版本信息
+				trident : u.indexOf('Trident') > -1, // IE内核
+				presto : u.indexOf('Presto') > -1, // opera内核
+				webKit : u.indexOf('AppleWebKit') > -1, // 苹果、谷歌内核
+				gecko : u.indexOf('Gecko') > -1 && u.indexOf('KHTML') == -1, // 火狐内核
+				mobile : !!u.match(/AppleWebKit.*Mobile.*/) || !!u.match(/AppleWebKit/), // 是否为移动终端
+				android : u.indexOf('Android') > -1 || u.indexOf('Linux') > -1, // android终端或者uc浏览器
+				iPhone : u.indexOf('iPhone') > -1 || u.indexOf('Mac') > -1, // 是否为iPhone或者QQHD浏览器
+				iPad : u.indexOf('iPad') > -1 || u.indexOf('iPod') > -1, // 是否iPad
+				webApp : u.indexOf('Safari') == -1
+			// 是否web应该程序，没有头部与底部
+			};
+		}(),
+		language : (navigator.browserLanguage || navigator.language).toLowerCase()
+	}
+	if (errCode == "-7004") {
+		//超时或未登陆
+		backNav();
+	} else if (errCode == "-7003") {
+		// 没有权限
+		document.getElementById("9000").style.display = "none";//隐藏  
+		document.getElementById("7003").style.display = "";//显示  
+	} else if (errCode == "-9000") {
+		// 出现异常
+		document.getElementById("7003").style.display = "none";//隐藏  
+		document.getElementById("9000").style.display = "";//显示  
+	} else {
+		// 其它
+		document.getElementById("7003").style.display = "none";//隐藏  
+		document.getElementById("9000").style.display = "";//显示
+		$("#9000").text($(".messageValue").first().val());
+	}
+
+	//返回按钮回调
+	function backNav() {
+		var u = window.navigator.userAgent.toLowerCase();
+		if (/(iphone|ipad|ipod|ios)/i.test(u)){
+			var message = {
+					'message' : 'closeMe'
+			};
+			window.webkit.messageHandlers.Native.postMessage(message);
+		}else if (/android/.test(u)){
+			window.android.closeMe();
+		}else{
+			// 其它登陆模式
+			window.location.href = '/iMapCoServer';
+		}
+	}
+</script>
+
+2019-01-22 15:04:20,395 - InterFace - INFO - 
+
+
+
+
+<html>
+<head>
+
+<link rel="shortcut icon" href="/iMapCoServer/theme/layout/img/logo/SAIC_logo.ico" type="image/x-icon" />
+<title>提示</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+
+<script src="/iMapCoServer/theme/global/plugins/jquery-1.9.1.min.js" type="text/javascript" charset="UTF-8"></script>
+<link href="/iMapCoServer/theme/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<script src="/iMapCoServer/theme/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<!-- 图片引入Start -->
+				<div align="center" class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 140px;">
+					<img id="btnScan" src="/iMapCoServer/theme/global/img/Error_Occur.png" width="200px" height="200px">
+				</div>
+				<!-- 图片引入End -->
+				<!--没有权限Start -->
+				<div id="7003" align="center" style="font-size: 20px;" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">对不起 , 您没有权限访问!</div>
+				<!--没有权限End -->
+				<!-- 其他错误/异常Start -->
+				<div id="9000" align="center" style="font-size: 20px;" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">系统错误 , 请联系管理员!</div>
+				<!-- 其他错误/异常End -->
+				<!-- 错误信息隐藏域Start -->
+				<div style="display: none;">
+					<h1>Error Occur!</h1>
+					<P>The time on the server is: Tue Jan 22 15:04:20 CST 2019.</P>
+					<p>
+						moduleName:
+						Authentication
+						<br /> exceptionMessage:
+						超时或未登录，请重新登录系统
+
+						<!-- 用来存放异常值Start -->
+						<input class="messageValue" type="hidden" value="超时或未登录，请重新登录系统
+" />
+						<!-- 用来存放异常值End -->
+					</p>
+					<!-- 错误原因Start -->
+					<p style="display: none">
+						saic.security.authentication.exception.SessionTimeAlmostUpException: 超时或未登录，请重新登录系统
+
+	at saic.security.filter.LoginSecurityFilter.CheckPrivilege(LoginSecurityFilter.java:189)
+	at saic.security.filter.LoginSecurityFilter.doFilter(LoginSecurityFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at common.filter.CacheFilter.doFilter(CacheFilter.java:48)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:957)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:620)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+					</p>
+					<!-- 错误原因End -->
+				</div>
+				<!-- 错误信息隐藏域End -->
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+<script type="text/javascript">
+	var errCode = '-7004';
+	// 获得登陆设备和语言
+	var browser = {
+		versions : function() {
+			var u = navigator.userAgent, app = navigator.appVersion;
+			return {
+				// 移动终端浏览器版本信息
+				trident : u.indexOf('Trident') > -1, // IE内核
+				presto : u.indexOf('Presto') > -1, // opera内核
+				webKit : u.indexOf('AppleWebKit') > -1, // 苹果、谷歌内核
+				gecko : u.indexOf('Gecko') > -1 && u.indexOf('KHTML') == -1, // 火狐内核
+				mobile : !!u.match(/AppleWebKit.*Mobile.*/) || !!u.match(/AppleWebKit/), // 是否为移动终端
+				android : u.indexOf('Android') > -1 || u.indexOf('Linux') > -1, // android终端或者uc浏览器
+				iPhone : u.indexOf('iPhone') > -1 || u.indexOf('Mac') > -1, // 是否为iPhone或者QQHD浏览器
+				iPad : u.indexOf('iPad') > -1 || u.indexOf('iPod') > -1, // 是否iPad
+				webApp : u.indexOf('Safari') == -1
+			// 是否web应该程序，没有头部与底部
+			};
+		}(),
+		language : (navigator.browserLanguage || navigator.language).toLowerCase()
+	}
+	if (errCode == "-7004") {
+		//超时或未登陆
+		backNav();
+	} else if (errCode == "-7003") {
+		// 没有权限
+		document.getElementById("9000").style.display = "none";//隐藏  
+		document.getElementById("7003").style.display = "";//显示  
+	} else if (errCode == "-9000") {
+		// 出现异常
+		document.getElementById("7003").style.display = "none";//隐藏  
+		document.getElementById("9000").style.display = "";//显示  
+	} else {
+		// 其它
+		document.getElementById("7003").style.display = "none";//隐藏  
+		document.getElementById("9000").style.display = "";//显示
+		$("#9000").text($(".messageValue").first().val());
+	}
+
+	//返回按钮回调
+	function backNav() {
+		var u = window.navigator.userAgent.toLowerCase();
+		if (/(iphone|ipad|ipod|ios)/i.test(u)){
+			var message = {
+					'message' : 'closeMe'
+			};
+			window.webkit.messageHandlers.Native.postMessage(message);
+		}else if (/android/.test(u)){
+			window.android.closeMe();
+		}else{
+			// 其它登陆模式
+			window.location.href = '/iMapCoServer';
+		}
+	}
+</script>
+
+2019-01-22 15:05:29,145 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.html
+2019-01-22 15:05:29,147 - InterFace - INFO - 请求成功: <Response [200]>
+
+
+
+
+
+<html>
+<head>
+
+<link rel="shortcut icon" href="/iMapCoServer/theme/layout/img/logo/SAIC_logo.ico" type="image/x-icon" />
+<title>提示</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+
+<script src="/iMapCoServer/theme/global/plugins/jquery-1.9.1.min.js" type="text/javascript" charset="UTF-8"></script>
+<link href="/iMapCoServer/theme/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<script src="/iMapCoServer/theme/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<!-- 图片引入Start -->
+				<div align="center" class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 140px;">
+					<img id="btnScan" src="/iMapCoServer/theme/global/img/Error_Occur.png" width="200px" height="200px">
+				</div>
+				<!-- 图片引入End -->
+				<!--没有权限Start -->
+				<div id="7003" align="center" style="font-size: 20px;" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">对不起 , 您没有权限访问!</div>
+				<!--没有权限End -->
+				<!-- 其他错误/异常Start -->
+				<div id="9000" align="center" style="font-size: 20px;" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">系统错误 , 请联系管理员!</div>
+				<!-- 其他错误/异常End -->
+				<!-- 错误信息隐藏域Start -->
+				<div style="display: none;">
+					<h1>Error Occur!</h1>
+					<P>The time on the server is: Tue Jan 22 15:05:29 CST 2019.</P>
+					<p>
+						moduleName:
+						Authentication
+						<br /> exceptionMessage:
+						超时或未登录，请重新登录系统
+
+						<!-- 用来存放异常值Start -->
+						<input class="messageValue" type="hidden" value="超时或未登录，请重新登录系统
+" />
+						<!-- 用来存放异常值End -->
+					</p>
+					<!-- 错误原因Start -->
+					<p style="display: none">
+						saic.security.authentication.exception.SessionTimeAlmostUpException: 超时或未登录，请重新登录系统
+
+	at saic.security.filter.LoginSecurityFilter.CheckPrivilege(LoginSecurityFilter.java:189)
+	at saic.security.filter.LoginSecurityFilter.doFilter(LoginSecurityFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at common.filter.CacheFilter.doFilter(CacheFilter.java:48)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:957)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:620)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+					</p>
+					<!-- 错误原因End -->
+				</div>
+				<!-- 错误信息隐藏域End -->
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+<script type="text/javascript">
+	var errCode = '-7004';
+	// 获得登陆设备和语言
+	var browser = {
+		versions : function() {
+			var u = navigator.userAgent, app = navigator.appVersion;
+			return {
+				// 移动终端浏览器版本信息
+				trident : u.indexOf('Trident') > -1, // IE内核
+				presto : u.indexOf('Presto') > -1, // opera内核
+				webKit : u.indexOf('AppleWebKit') > -1, // 苹果、谷歌内核
+				gecko : u.indexOf('Gecko') > -1 && u.indexOf('KHTML') == -1, // 火狐内核
+				mobile : !!u.match(/AppleWebKit.*Mobile.*/) || !!u.match(/AppleWebKit/), // 是否为移动终端
+				android : u.indexOf('Android') > -1 || u.indexOf('Linux') > -1, // android终端或者uc浏览器
+				iPhone : u.indexOf('iPhone') > -1 || u.indexOf('Mac') > -1, // 是否为iPhone或者QQHD浏览器
+				iPad : u.indexOf('iPad') > -1 || u.indexOf('iPod') > -1, // 是否iPad
+				webApp : u.indexOf('Safari') == -1
+			// 是否web应该程序，没有头部与底部
+			};
+		}(),
+		language : (navigator.browserLanguage || navigator.language).toLowerCase()
+	}
+	if (errCode == "-7004") {
+		//超时或未登陆
+		backNav();
+	} else if (errCode == "-7003") {
+		// 没有权限
+		document.getElementById("9000").style.display = "none";//隐藏  
+		document.getElementById("7003").style.display = "";//显示  
+	} else if (errCode == "-9000") {
+		// 出现异常
+		document.getElementById("7003").style.display = "none";//隐藏  
+		document.getElementById("9000").style.display = "";//显示  
+	} else {
+		// 其它
+		document.getElementById("7003").style.display = "none";//隐藏  
+		document.getElementById("9000").style.display = "";//显示
+		$("#9000").text($(".messageValue").first().val());
+	}
+
+	//返回按钮回调
+	function backNav() {
+		var u = window.navigator.userAgent.toLowerCase();
+		if (/(iphone|ipad|ipod|ios)/i.test(u)){
+			var message = {
+					'message' : 'closeMe'
+			};
+			window.webkit.messageHandlers.Native.postMessage(message);
+		}else if (/android/.test(u)){
+			window.android.closeMe();
+		}else{
+			// 其它登陆模式
+			window.location.href = '/iMapCoServer';
+		}
+	}
+</script>
+
+2019-01-22 15:05:29,148 - InterFace - INFO - 
+
+
+
+
+<html>
+<head>
+
+<link rel="shortcut icon" href="/iMapCoServer/theme/layout/img/logo/SAIC_logo.ico" type="image/x-icon" />
+<title>提示</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+
+<script src="/iMapCoServer/theme/global/plugins/jquery-1.9.1.min.js" type="text/javascript" charset="UTF-8"></script>
+<link href="/iMapCoServer/theme/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<script src="/iMapCoServer/theme/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<!-- 图片引入Start -->
+				<div align="center" class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 140px;">
+					<img id="btnScan" src="/iMapCoServer/theme/global/img/Error_Occur.png" width="200px" height="200px">
+				</div>
+				<!-- 图片引入End -->
+				<!--没有权限Start -->
+				<div id="7003" align="center" style="font-size: 20px;" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">对不起 , 您没有权限访问!</div>
+				<!--没有权限End -->
+				<!-- 其他错误/异常Start -->
+				<div id="9000" align="center" style="font-size: 20px;" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">系统错误 , 请联系管理员!</div>
+				<!-- 其他错误/异常End -->
+				<!-- 错误信息隐藏域Start -->
+				<div style="display: none;">
+					<h1>Error Occur!</h1>
+					<P>The time on the server is: Tue Jan 22 15:05:29 CST 2019.</P>
+					<p>
+						moduleName:
+						Authentication
+						<br /> exceptionMessage:
+						超时或未登录，请重新登录系统
+
+						<!-- 用来存放异常值Start -->
+						<input class="messageValue" type="hidden" value="超时或未登录，请重新登录系统
+" />
+						<!-- 用来存放异常值End -->
+					</p>
+					<!-- 错误原因Start -->
+					<p style="display: none">
+						saic.security.authentication.exception.SessionTimeAlmostUpException: 超时或未登录，请重新登录系统
+
+	at saic.security.filter.LoginSecurityFilter.CheckPrivilege(LoginSecurityFilter.java:189)
+	at saic.security.filter.LoginSecurityFilter.doFilter(LoginSecurityFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at common.filter.CacheFilter.doFilter(CacheFilter.java:48)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:957)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:620)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+					</p>
+					<!-- 错误原因End -->
+				</div>
+				<!-- 错误信息隐藏域End -->
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+<script type="text/javascript">
+	var errCode = '-7004';
+	// 获得登陆设备和语言
+	var browser = {
+		versions : function() {
+			var u = navigator.userAgent, app = navigator.appVersion;
+			return {
+				// 移动终端浏览器版本信息
+				trident : u.indexOf('Trident') > -1, // IE内核
+				presto : u.indexOf('Presto') > -1, // opera内核
+				webKit : u.indexOf('AppleWebKit') > -1, // 苹果、谷歌内核
+				gecko : u.indexOf('Gecko') > -1 && u.indexOf('KHTML') == -1, // 火狐内核
+				mobile : !!u.match(/AppleWebKit.*Mobile.*/) || !!u.match(/AppleWebKit/), // 是否为移动终端
+				android : u.indexOf('Android') > -1 || u.indexOf('Linux') > -1, // android终端或者uc浏览器
+				iPhone : u.indexOf('iPhone') > -1 || u.indexOf('Mac') > -1, // 是否为iPhone或者QQHD浏览器
+				iPad : u.indexOf('iPad') > -1 || u.indexOf('iPod') > -1, // 是否iPad
+				webApp : u.indexOf('Safari') == -1
+			// 是否web应该程序，没有头部与底部
+			};
+		}(),
+		language : (navigator.browserLanguage || navigator.language).toLowerCase()
+	}
+	if (errCode == "-7004") {
+		//超时或未登陆
+		backNav();
+	} else if (errCode == "-7003") {
+		// 没有权限
+		document.getElementById("9000").style.display = "none";//隐藏  
+		document.getElementById("7003").style.display = "";//显示  
+	} else if (errCode == "-9000") {
+		// 出现异常
+		document.getElementById("7003").style.display = "none";//隐藏  
+		document.getElementById("9000").style.display = "";//显示  
+	} else {
+		// 其它
+		document.getElementById("7003").style.display = "none";//隐藏  
+		document.getElementById("9000").style.display = "";//显示
+		$("#9000").text($(".messageValue").first().val());
+	}
+
+	//返回按钮回调
+	function backNav() {
+		var u = window.navigator.userAgent.toLowerCase();
+		if (/(iphone|ipad|ipod|ios)/i.test(u)){
+			var message = {
+					'message' : 'closeMe'
+			};
+			window.webkit.messageHandlers.Native.postMessage(message);
+		}else if (/android/.test(u)){
+			window.android.closeMe();
+		}else{
+			// 其它登陆模式
+			window.location.href = '/iMapCoServer';
+		}
+	}
+</script>
+
+2019-01-22 15:06:28,070 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
+2019-01-22 15:06:28,071 - InterFace - INFO - 请求成功: <Response [200]>
+{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"7B6063436F91479Db17A557D10BbD715"}
+2019-01-22 15:06:28,073 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"7B6063436F91479Db17A557D10BbD715"}
+2019-01-22 17:36:13,116 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
+2019-01-22 17:36:13,117 - InterFace - INFO - 请求成功: <Response [200]>
+{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"4CC4f9AAF19e4c308Cf7524108984341"}
+2019-01-22 17:36:13,117 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"4CC4f9AAF19e4c308Cf7524108984341"}
+2019-01-22 17:50:14,419 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
+2019-01-22 17:50:14,441 - InterFace - INFO - 请求成功: <Response [200]>
+{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"bFFBc1D2Ee654e84A9B3BE5094F2C92D"}
+2019-01-22 17:50:14,442 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"bFFBc1D2Ee654e84A9B3BE5094F2C92D"}
+2019-01-22 18:03:24,419 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
+2019-01-22 18:03:24,421 - InterFace - INFO - 请求成功: <Response [200]>
+{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"3f8b3b9d86154960A66ED3Aec28fD7E9"}
+2019-01-22 18:03:24,421 - InterFace - INFO - {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"3f8b3b9d86154960A66ED3Aec28fD7E9"}
+2019-01-22 18:29:01,111 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
+2019-01-22 18:29:01,114 - InterFace - INFO - 请求成功: <Response [200]>
+{"detail":[{"code":-9000,"name":"message","value":"用户不存在\r\n"}],"code":-9000,"moduleName":"SYS_COMMON","cause":null,"message":"用户不存在\r\n\r\n"}
+2019-01-22 18:29:01,114 - InterFace - INFO - {"detail":[{"code":-9000,"name":"message","value":"用户不存在\r\n"}],"code":-9000,"moduleName":"SYS_COMMON","cause":null,"message":"用户不存在\r\n\r\n"}
+2019-01-22 18:39:34,020 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
+2019-01-22 18:39:34,020 - InterFace - INFO - 请求成功: <Response [200]>
+{"detail":[{"code":-9000,"name":"message","value":"用户不存在\r\n"}],"code":-9000,"moduleName":"SYS_COMMON","cause":null,"message":"用户不存在\r\n\r\n"}
+2019-01-22 18:39:34,020 - InterFace - INFO - {"detail":[{"code":-9000,"name":"message","value":"用户不存在\r\n"}],"code":-9000,"moduleName":"SYS_COMMON","cause":null,"message":"用户不存在\r\n\r\n"}

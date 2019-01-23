@@ -22,5 +22,5 @@ class Config:
         return self.config[index].get(element)
 if __name__== '__main__':
     b = Config()
-    print(b.get("log"))
+    print(b.get("denglu"))
 

@@ -1,4 +1,0 @@
-client.py                   39 INFO     GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
-client.py                   40 INFO     请求成功: <Response [200]>
-{"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"1F7D67F7cE1348909E905eBD9C791Ff6"}
-test_baidu.py               11 INFO     {"body":null,"success":true,"message":"业务处理成功","sysType":null,"code":200,"moduleName":"SYS_COMMON","_TK":"1F7D67F7cE1348909E905eBD9C791Ff6"}

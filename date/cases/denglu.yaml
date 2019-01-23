@@ -1,0 +1,23 @@
+-
+  url: /login.jhtml
+  detail: 正常登陆
+  method: get
+  data:
+    userAccount: admin
+    password: Pass123456
+  cookies:
+    sign: adfdsfnsdfnsd
+  check:
+    - sign
+    - userId
+-
+  detail: 密码错误
+  data:
+    username: admin
+    passwd: Pass1234567
+  cookies:
+    sign: adfdsfnsdfnsd
+  check:
+    - sign
+    - userId
+

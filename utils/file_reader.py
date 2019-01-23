@@ -12,15 +12,10 @@ class YamlReader:
         date = list((yaml.load_all(file)))
         return date
     def read_case(self):
-        files = os.listdir(self.yamlfilePath)
-        date = []
-        for i in files:
-            file = open(os.path.join(self.yamlfilePath,i))
-            b = yaml.load(file)
-            date.append(b)
-        return date
-        #print(os.path.join())
+        file = open(self.yamlfilePath)
+        casedate = yaml.load(file)
+        return casedate
 if __name__== '__main__':
-    reader = YamlReader('../date/cases')
+    reader = YamlReader('/Users/lyg/PycharmProjects/learn_interface/date/cases/denglu.yaml')
     print(reader.read_case())
     #print(reader.read_date())
