@@ -9,7 +9,4 @@ class Extractor(object):
             raise ValueError("Invalid query: " + query + " : " + str(e))
 
 if __name__ == '__main__':
-    j = Httpclient('/login.jhtml','GET').sendRequest({"userAccount":"admin","password":"Pass123456"})
-    #print(j.text)
-    b = Extractor()
-    print(b.extract(j.text,'$._TK'))
+    pass
