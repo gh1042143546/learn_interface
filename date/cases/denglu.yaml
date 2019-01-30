@@ -1,5 +1,5 @@
 -
-  url: /login.jhtml
+  url:
   detail: 正常登陆
   method: get
   data:
