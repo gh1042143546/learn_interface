@@ -41,5 +41,4 @@ class Httpclient():
         return response
 
 if __name__ == "__main__":
-    c = Httpclient('/login.jhtml','GET')
-    b = c.sendRequest({"userAccount":"admin","password":"Pass123456"})
+    pass

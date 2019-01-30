@@ -3,8 +3,8 @@
   detail: 正常登陆
   method: get
   data:
-    userAccount: admin
-    password: Pass123456
+    userAccount:
+    password:
   cookies:
     sign: adfdsfnsdfnsd
   check:
@@ -13,8 +13,8 @@
 -
   detail: 密码错误
   data:
-    username: admin
-    passwd: Pass1234567
+    username:
+    passwd:
   cookies:
     sign: adfdsfnsdfnsd
   check:

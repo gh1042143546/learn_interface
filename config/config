@@ -1,4 +1,4 @@
-base_url: http://imap-pv.saicmotor.com/iMapCoServer/
+base_url:
 images:
  - images/0.jpg
  - images/1.jpg
@@ -16,6 +16,6 @@ log:
     file_level: DEBUG
     pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 denglu:
-    api: login.jhtml
-    method: GET
+    api:
+    method:
 
