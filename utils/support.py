@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-# Author:Gehao
+# Author:test
 import hashlib
 from utils.log import Logger
 def sign(sign_dict, private_key=None, encrypt_way='MD5'):

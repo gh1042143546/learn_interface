@@ -18,4 +18,3 @@ class YamlReader:
 if __name__== '__main__':
     reader = YamlReader('/Users/lyg/PycharmProjects/learn_interface/date/cases/denglu.yaml')
     print(reader.read_case())
-    #print(reader.read_date())
