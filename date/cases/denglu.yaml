@@ -1,5 +1,5 @@
 -
-  Interface_Path: /iMapCoServer/login.jhtml
+  Interface_Path: /login.jhtml
   detail: 正常登陆
   method: GET
   data:
