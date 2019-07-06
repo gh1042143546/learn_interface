@@ -29,7 +29,7 @@ class Httpclient():
             self.session.cookies.update(cookies)
 
     def set_url(self,url):
-        self.url = base_url + url
+        self.url =  url
 
     def set_param(self,params):
         self.params=params

@@ -1,20 +1,22 @@
 -
-  url:
+  Interface_Path: /iMapCoServer/login.jhtml
   detail: 正常登陆
-  method: get
+  method: GET
   data:
-    userAccount:
-    password:
+    userAccount: admin
+    password: Pass1234
   cookies:
     sign: adfdsfnsdfnsd
   check:
     - sign
     - userId
 -
+  Interface_Path: /iMapCoServer/login.jhtml
+  method: GET
   detail: 密码错误
   data:
-    username:
-    passwd:
+    userAccount: admin
+    passwd: Pass1234
   cookies:
     sign: adfdsfnsdfnsd
   check:

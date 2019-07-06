@@ -1,0 +1,26 @@
+2019-07-06 00:44:11,281 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
+2019-07-06 00:44:11,283 - InterFace - INFO - 请求成功: <Response [200]>
+{"detail":[{"code":-9000,"name":"message","value":"您已经连续[1]次输入错误密码，连续错误[3]次用户将被锁定。\r\n"}],"code":-9000,"moduleName":"SYS_COMMON","cause":null,"message":"您已经连续[1]次输入错误密码，连续错误[3]次用户将被锁定。\r\n\r\n"}
+2019-07-06 00:44:11,284 - InterFace - INFO - {"detail":[{"code":-9000,"name":"message","value":"您已经连续[1]次输入错误密码，连续错误[3]次用户将被锁定。\r\n"}],"code":-9000,"moduleName":"SYS_COMMON","cause":null,"message":"您已经连续[1]次输入错误密码，连续错误[3]次用户将被锁定。\r\n\r\n"}
+2019-07-06 23:29:15,368 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
+2019-07-06 23:29:15,406 - InterFace - INFO - 请求成功: <Response [200]>
+{"detail":[{"code":-9000,"name":"message","value":"您已经连续[2]次输入错误密码，连续错误[3]次用户将被锁定。\r\n"}],"code":-9000,"moduleName":"SYS_COMMON","cause":null,"message":"您已经连续[2]次输入错误密码，连续错误[3]次用户将被锁定。\r\n\r\n"}
+2019-07-06 23:29:15,406 - InterFace - INFO - {"detail":[{"code":-9000,"name":"message","value":"您已经连续[2]次输入错误密码，连续错误[3]次用户将被锁定。\r\n"}],"code":-9000,"moduleName":"SYS_COMMON","cause":null,"message":"您已经连续[2]次输入错误密码，连续错误[3]次用户将被锁定。\r\n\r\n"}
+2019-07-06 23:32:39,656 - InterFace - INFO - GET http://imap-pv.saicmotor.com/iMapCoServer/login.jhtml
+2019-07-06 23:32:39,657 - InterFace - INFO - 请求成功: <Response [504]>
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+
+2019-07-06 23:32:39,657 - InterFace - INFO - <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+

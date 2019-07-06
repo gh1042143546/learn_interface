@@ -8,13 +8,14 @@ class YamlReader:
         else:
             raise FileNotFoundError('文件不存在！')
     def read_date(self):
-        file = open(self.yamlfilePath)
+        file = open(self.yamlfilePath,encoding='UTF-8')
         date = list((yaml.load_all(file)))
         return date
     def read_case(self):
-        file = open(self.yamlfilePath)
-        casedate = yaml.load(file)
+        file = open(self.yamlfilePath,encoding='UTF-8')
+        casedate = yaml.load(file)#返回一个字典
+
         return casedate
 if __name__== '__main__':
-    reader = YamlReader('/Users/lyg/PycharmProjects/learn_interface/date/cases/denglu.yaml')
+    reader = YamlReader('../date/cases/denglu.yaml')
     print(reader.read_case())
