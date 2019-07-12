@@ -1,22 +1,25 @@
 -
-  Interface_Path: /login
+  Interface_Path: gatekeeper/api/auth/login
   detail: 正常登陆
-  method: GET
+  method: POST
   data:
-    userAccount: admin
-    password: Pass1234
+    mobile: 13611849759
+    password: testgroup
+    verify_code: 2
   cookies:
     sign: adfdsfnsdfnsd
+  headers: null
   check:
     - sign
     - userId
 -
-  Interface_Path: /login
-  method: GET
+  Interface_Path: gatekeeper/api/auth/login
+  method: POST
   detail: 密码错误
   data:
-    userAccount: admin
-    passwd: Pass1234
+    mobile: 13611849759
+    password: testgroup
+    verify_code: 2
   cookies:
     sign: adfdsfnsdfnsd
   check:

@@ -13,9 +13,15 @@ class YamlReader:
         return date
     def read_case(self):
         file = open(self.yamlfilePath,encoding='UTF-8')
-        casedate = yaml.load(file)#返回一个字典
-
+        casedate = yaml.load(file)
         return casedate
 if __name__== '__main__':
+    testdata = []
     reader = YamlReader('../date/cases/denglu.yaml')
-    print(reader.read_case())
+    res = reader.read_case()
+    for i in res:
+        url = i["Interface_Path"]
+        method = i["method"]
+        t=(url,method)
+        testdata.append(t)
+    print(testdata)

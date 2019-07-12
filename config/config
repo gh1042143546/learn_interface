@@ -1,5 +1,5 @@
 ---
-base_url: http://www.baidu.com
+base_url: https://latest-test-omapi.lygou.cc/
 images:
  - images/0.jpg
  - images/1.jpg
