@@ -23,11 +23,11 @@ class read_params:
             url = param["Interface_Path"]
             method = param["method"]
             data = param["data"]
-            t=(url,method,data)
+            check = param["check"]
+            t=(url,method,data,check)
             paramdate.append(t)
         return paramdate
 
 if __name__== '__main__':
     b = read_params('../date/cases/denglu.yaml')
-    #print(b)
     print(b.get_params())
