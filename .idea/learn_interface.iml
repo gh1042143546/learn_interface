@@ -10,6 +10,8 @@
     <orderEntry type="module" module-name="API_Automation-master" />
     <orderEntry type="module" module-name="untitled" />
     <orderEntry type="module" module-name="learnweb" />
+    <orderEntry type="module" module-name="deptest" />
+    <orderEntry type="module" module-name="deptest-feature-py3" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />
