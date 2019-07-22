@@ -5,7 +5,7 @@
   data:
     mobile: 13611849759
     password: testgroup
-    verify_code: 2
+    verify_code: $random
   cookies:
     sign: adfdsfnsdfnsd
   headers: null

@@ -1,6 +1,6 @@
 import os
 
-from utils.file_reader import YamlReader
+from Utils.file_readers import YamlReader
 
 BASE_PATH = os.path.split(os.path.dirname(os.path.abspath(__file__)))[0]
 CONFIG_FILE = os.path.join(BASE_PATH, 'config', 'config')

@@ -1,8 +1,8 @@
 import pytest
 import allure
-from utils.assertion import assertHTTPCode
-from utils.client import *
-from utils.readCase import read_params
+#from utils.assertion import assertHTTPCode
+from Utils.client import *
+from Utils.readCase import read_params
 '''
 #@allure.feature("测试接口")
 @pytest.fixture(params=['base_url'])
@@ -44,9 +44,9 @@ class TestBaiDuHTTP:
         b = response.json()
         # 测试步骤，对必要的测试过程加以说明
         with allure.step("获取登录接口返回值，结果校验 {0} == {1}".format(b["code"], check["code"])):
-            #assert b["code"] == check["code"],"判断返回码，当前code的值为：%s"%b["code"]
+            #assert b["code"] == check["code"],"判断返回码，当前code的值为：%SSS"%b["code"]
             assert "access_token" in b['data'].keys()
 
 
 if __name__ == '__main__':
-    pytest.main(['-s', '-q', '--alluredir','../../result/'])
+    pytest.main(['-SSS', '-q', '--alluredir','../../result/'])
