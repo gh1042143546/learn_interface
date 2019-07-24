@@ -2,28 +2,31 @@
   Interface_Path: gatekeeper/api/auth/login
   detail: 正常登陆
   method: POST
+  variable_binds:
+        - random: ${gen_random_string(5)}
   data:
-    mobile: 13611849759
-    password: testgroup
-    verify_code: $random
+    mobile: 18016220960
+    password: 123456
+    verify_code: 2
   cookies:
     sign: adfdsfnsdfnsd
   headers: null
   check:
     code: 0
-
+    message: "success"
 -
   Interface_Path: gatekeeper/api/auth/login
   method: POST
   detail: 密码错误
   data:
-    mobile: 13611849759
+    mobile: 18016220960
     password:
     verify_code: 2
   cookies:
     sign: adfdsfnsdfnsd
   headers: null
   check:
-    code: 2
+    code: 1
+    message: "密码不能为空。"
 
 

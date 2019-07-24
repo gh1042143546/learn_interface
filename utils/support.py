@@ -1,7 +1,6 @@
 # -*- coding:utf-8 -*-
 # Author:test
 import hashlib
-from utils.log import Logger
 def sign(sign_dict, private_key=None, encrypt_way='MD5'):
     """传入待签名的字典，返回签名后字符串
     1.字典排序
@@ -35,6 +34,13 @@ def encrypt(string, salt='', encrypt_way='MD5'):
 
     hash_string.update(string.encode())
     return hash_string.hexdigest()
+
+
+def gen_random_string(a):
+    return "jiushi"+str(a)
+
+
+
 
 if __name__ == '__main__':
     print(encrypt('100000307111111'))

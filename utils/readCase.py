@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
-import yaml
-from utils.file_reader import YamlReader
+from Utils.file_readers import YamlReader
+
 class read_params:
     def __init__(self,path):
         self.reader  = YamlReader(path)
@@ -14,7 +14,6 @@ class read_params:
     '''
     def get_params(self):
         '''
-
         :return:返回接口请求需要的参数
         '''
         paramdate = []
