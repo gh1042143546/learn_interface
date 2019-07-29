@@ -9,7 +9,7 @@
     <orderEntry type="module" module-name="httprunner-master" />
   </component>
   <component name="PackageRequirementsSettings">
-    <option name="requirementsPath" value="" />
+    <option name="requirementsPath" value="$MODULE_DIR$/runAll.py" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="py.test" />

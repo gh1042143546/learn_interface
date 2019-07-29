@@ -1,6 +1,30 @@
 <component name="InspectionProjectProfileManager">
   <profile version="1.0">
     <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="Testresult_path" />
+            <item index="1" class="java.lang.String" itemvalue="import" />
+            <item index="2" class="java.lang.String" itemvalue="path_dir" />
+            <item index="3" class="java.lang.String" itemvalue="allure_list" />
+            <item index="4" class="java.lang.String" itemvalue="args" />
+            <item index="5" class="java.lang.String" itemvalue="print" />
+            <item index="6" class="java.lang.String" itemvalue="os.system" />
+            <item index="7" class="java.lang.String" itemvalue="Testreport_path" />
+            <item index="8" class="java.lang.String" itemvalue="raise" />
+            <item index="9" class="java.lang.String" itemvalue="from" />
+            <item index="10" class="java.lang.String" itemvalue="try" />
+            <item index="11" class="java.lang.String" itemvalue="except" />
+            <item index="12" class="java.lang.String" itemvalue="pytest.main" />
+            <item index="13" class="java.lang.String" itemvalue="cmd" />
+            <item index="14" class="java.lang.String" itemvalue="logger.error" />
+            <item index="15" class="java.lang.String" itemvalue="if" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
     <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Project Files" level="WARNING" enabled="true" />
     </inspection_tool>

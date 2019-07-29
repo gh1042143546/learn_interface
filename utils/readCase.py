@@ -3,7 +3,7 @@ from Utils.file_readers import YamlReader
 
 class read_params:
     def __init__(self,path):
-        self.reader  = YamlReader(path)
+        self.reader = YamlReader(path)
     '''
     def get_params(self,param):
         params = self.reader.read_case()

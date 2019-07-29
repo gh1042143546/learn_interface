@@ -16,6 +16,7 @@ log:
     console_level: WARNING
     file_level: DEBUG
     pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+case_date:
 #邮件配置
 ---
 url: tenxun
