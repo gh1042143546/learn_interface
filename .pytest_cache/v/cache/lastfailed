@@ -1,0 +1,11 @@
+{
+  "test/case/test_baidu.py": true,
+  "test/case/test_baidu.py::TestBaiDuHTTP": true,
+  "test/case/test_baidu.py::TestBaiDuHTTP::()::test_case[\\u79d8\\u5bc6\\u9519\\u8bef]": true,
+  "test/case/test_baidu.py::TestBaiDuHTTP::()::test_case[gatekeeper/api/auth/login-POST-date0-check0]": true,
+  "test/case/test_baidu.py::TestBaiDuHTTP::()::test_case[gatekeeper/api/auth/login-POST-date1-check1]": true,
+  "test/case/test_baidu.py::TestBaiDuHTTP::()::test_tk[denglu]": true,
+  "test/case/test_baidu.py::TestBaiDuHTTP::test_case[gatekeeper/api/auth/login-POST-date1-check1]": true,
+  "test/testcase/test_baidu.py": true,
+  "test/testcase/test_baidu.py::TestBaiDuHTTP": true
+}

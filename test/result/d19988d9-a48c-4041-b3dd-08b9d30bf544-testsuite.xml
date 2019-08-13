@@ -1,0 +1,60 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1563265567888" stop="1563265568588">
+  <name>test</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1563265567888" status="passed" stop="1563265568364">
+      <name>.Users.lyg.PycharmProjects.learn_interface.test.case.test_baidu.TestBaiDuHTTP.test_case[gatekeeper/api/auth/login-POST-date0-check0]</name>
+      <attachments>
+        <attachment source="a74d0dbe-1e16-4bca-9519-482630455ed2-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="story" value="登录接口"/>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="29721-MainThread"/>
+        <label name="host" value="LYGdeMacBook-Air-2.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1563265568368" status="failed" stop="1563265568588">
+      <name>.Users.lyg.PycharmProjects.learn_interface.test.case.test_baidu.TestBaiDuHTTP.test_case[gatekeeper/api/auth/login-POST-date1-check1]</name>
+      <failure>
+        <message>AssertionError: assert 1 == 2</message>
+        <stack-trace>self = &lt;test.case.test_baidu.TestBaiDuHTTP object at 0x10f984f98&gt;
+url = 'gatekeeper/api/auth/login', method = 'POST'
+date = {'mobile': 13611849759, 'password': None, 'verify_code': 2}
+check = {'code': 2}
+
+    @pytest.mark.parametrize("url,method,date,check",paramdate)
+    #test_case_01为用例title
+    @allure.feature('登录模块')
+    @allure.story('登录接口')
+    def test_case(self,url,method,date,check):
+        c = Httpclient(url,method=method)
+        response = c.sendRequest(param=date)
+        logger.info(response.text)
+        b = response.json()
+        print(b["code"])
+&gt;       assert b["code"] == check["code"]
+E       assert 1 == 2
+
+test_baidu.py:36: AssertionError</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="d6ec36e9-74e6-454a-a43e-f3cbd421e79b-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="story" value="登录接口"/>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="29721-MainThread"/>
+        <label name="host" value="LYGdeMacBook-Air-2.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

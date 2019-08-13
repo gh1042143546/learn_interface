@@ -17,7 +17,10 @@ log:
     file_level: DEBUG
     pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 case_date:
-#邮件配置
----
-url: tenxun
+DBconfig:
+    host: rm-wz9kdc870m317sjx933150.mysql.rds.aliyuncs.com
+    username: qa
+    password: laoyuegoutesT123
+    port: 3306
+    database: order_pay
 
