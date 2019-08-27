@@ -24,7 +24,8 @@ class DBManager:
         'passwd': self.password,
         'db': self.db,
     }
-    def __enter__(self):
+    #负责数据库连接，返回需要被管理的资源
+    def __enter__(self):  #上下文管理器必须包括方法”__enter__()”和__exit__方法“
         self.conection = pymysql.connect(**self.config)
         self.cursor = self.conection.cursor()
         print("Connect DB successfully!")
@@ -39,6 +40,7 @@ class DBManager:
             res_all = self.cursor.fetchall()
             return (res_num,res_all)
 
+    #负责关闭数据库的连接，释放资源
     def __exit__(self, exc_type, exc_val, exc_tb):
         self.conection.close()
         print("db closed")

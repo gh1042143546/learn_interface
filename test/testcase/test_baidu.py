@@ -26,7 +26,6 @@ class TestBaiDuHTTP:
     readyaml = read_params(r'/learn_interface/date/cases/denglu.yaml')
     paramdate = readyaml.get_params()
     #print(paramdate)S
-    #paramdate=[('gatekeeper/api/auth/login', 'POST', {'verify_code': 2, 'password': 123456, 'mobile': 18016220960}, {'code': 0, 'message': 'success'}), ('gatekeeper/api/auth/login', 'POST', {'verify_code': 2, 'password': None, 'mobile': 18016220960}, {'code': 1, 'message': '密码不能为空。'})]
     @allure.feature('登录模块')
     @allure.story('登录接口')
     @allure.issue("BUG号：123") # 问题表识，关联标识已有的问题，可为一个url链接地址

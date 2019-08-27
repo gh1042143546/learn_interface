@@ -1,5 +1,5 @@
 -
-  Interface_Path: gatekeeper/api/auth/login
+  Interface_Path: /login
   detail: 正常登陆
   method: POST
   variable_binds:
@@ -15,7 +15,7 @@
     code: 0
     message: "success"
 -
-  Interface_Path: gatekeeper/api/auth/login
+  Interface_Path: /login
   method: POST
   detail: 密码错误
   data:
