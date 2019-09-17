@@ -1,6 +1,6 @@
 import os
 
-from Utils.file_readers import YamlReader
+from utils.file_readers import YamlReader
 
 BASE_PATH = os.path.split(os.path.dirname(os.path.abspath(__file__)))[0]
 print(BASE_PATH)

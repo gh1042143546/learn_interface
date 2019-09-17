@@ -3,8 +3,8 @@
 import requests
 import os
 import time
-from Utils.config import Config,BASEURL_PATH
-from Utils.log import logger
+from utils.config import Config,BASEURL_PATH
+from utils.log import logger
 METHODS = ['GET', 'POST', 'HEAD', 'TRACE', 'PUT', 'DELETE', 'OPTIONS', 'CONNECT']  # 所有支持的前后前交互方法
 
 class Httpclient():

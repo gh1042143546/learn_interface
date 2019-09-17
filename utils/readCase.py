@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-from Utils.file_readers import YamlReader
+from utils.file_readers import YamlReader
 
 class read_params:
     def __init__(self,path):

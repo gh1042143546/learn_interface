@@ -1,1 +1,80 @@
-{ }
+{
+  "ee3a2d3f7a8b34a03f7089610e977c95" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b531d68fa7e7bf3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568742076465,
+        "stop" : 1568742076563,
+        "duration" : 98
+      }
+    } ]
+  },
+  "b19d01eec3cfbb18afac81ef05078691" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5aeb601d5bf3ed27",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='latest-test-omapi.lygou.cc', port=443): Max retries exceeded with url: /gatekeeper/api/auth/login?mobile=18016220960&verify_code=2 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x000002273C16EA90>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))",
+      "time" : {
+        "start" : 1568742326690,
+        "stop" : 1568742347703,
+        "duration" : 21013
+      }
+    } ]
+  },
+  "a301ef1e6b24bcb44971f8677015300a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cad306d4071f0232",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568742075919,
+        "stop" : 1568742076357,
+        "duration" : 438
+      }
+    } ]
+  },
+  "85e7ab2df8db07a4929919d4a226baeb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f788e6addb84708",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='latest-test-omapi.lygou.cc', port=443): Max retries exceeded with url: /gatekeeper/api/auth/login?password=123456&mobile=18016220960&verify_code=2 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x000002273C0A2DA0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))",
+      "time" : {
+        "start" : 1568742305400,
+        "stop" : 1568742326418,
+        "duration" : 21018
+      }
+    } ]
+  }
+}

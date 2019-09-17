@@ -1,1 +1,41 @@
-[ ]
+[ {
+  "uid" : "7b531d68fa7e7bf3",
+  "name" : "冒烟测试_所有算子运行_正常测试",
+  "time" : {
+    "start" : 1568742076465,
+    "stop" : 1568742076563,
+    "duration" : 98
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5aeb601d5bf3ed27",
+  "name" : "冒烟测试_所有算子运行_正常测试",
+  "time" : {
+    "start" : 1568742326690,
+    "stop" : 1568742347703,
+    "duration" : 21013
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3f788e6addb84708",
+  "name" : "冒烟测试_所有算子运行_正常测试",
+  "time" : {
+    "start" : 1568742305400,
+    "stop" : 1568742326418,
+    "duration" : 21018
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cad306d4071f0232",
+  "name" : "冒烟测试_所有算子运行_正常测试",
+  "time" : {
+    "start" : 1568742075919,
+    "stop" : 1568742076357,
+    "duration" : 438
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

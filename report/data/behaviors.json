@@ -1,5 +1,61 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "登录模块",
+    "children" : [ {
+      "name" : "登录接口",
+      "children" : [ {
+        "name" : "冒烟测试_所有算子运行_正常测试",
+        "uid" : "cad306d4071f0232",
+        "parentUid" : "a96082a673a92859c3643f7f05d73935",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568742075919,
+          "stop" : 1568742076357,
+          "duration" : 438
+        },
+        "flaky" : false,
+        "parameters" : [ "{'code': 0, 'message': 'success'}", "{'mobile': 18016220960, 'verify_code': 2, 'password': 123456}", "'POST'", "'gatekeeper/api/auth/login'" ]
+      }, {
+        "name" : "冒烟测试_所有算子运行_正常测试",
+        "uid" : "7b531d68fa7e7bf3",
+        "parentUid" : "a96082a673a92859c3643f7f05d73935",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568742076465,
+          "stop" : 1568742076563,
+          "duration" : 98
+        },
+        "flaky" : false,
+        "parameters" : [ "{'code': 1, 'message': '密码不能为空。'}", "{'mobile': 18016220960, 'verify_code': 2, 'password': None}", "'POST'", "'gatekeeper/api/auth/login'" ]
+      }, {
+        "name" : "冒烟测试_所有算子运行_正常测试",
+        "uid" : "3f788e6addb84708",
+        "parentUid" : "a96082a673a92859c3643f7f05d73935",
+        "status" : "broken",
+        "time" : {
+          "start" : 1568742305400,
+          "stop" : 1568742326418,
+          "duration" : 21018
+        },
+        "flaky" : true,
+        "parameters" : [ "{'code': 0, 'message': 'success'}", "{'password': 123456, 'mobile': 18016220960, 'verify_code': 2}", "'POST'", "'gatekeeper/api/auth/login'" ]
+      }, {
+        "name" : "冒烟测试_所有算子运行_正常测试",
+        "uid" : "5aeb601d5bf3ed27",
+        "parentUid" : "a96082a673a92859c3643f7f05d73935",
+        "status" : "broken",
+        "time" : {
+          "start" : 1568742326690,
+          "stop" : 1568742347703,
+          "duration" : 21013
+        },
+        "flaky" : true,
+        "parameters" : [ "{'code': 1, 'message': '密码不能为空。'}", "{'password': None, 'mobile': 18016220960, 'verify_code': 2}", "'POST'", "'gatekeeper/api/auth/login'" ]
+      } ],
+      "uid" : "a96082a673a92859c3643f7f05d73935"
+    } ],
+    "uid" : "6958045a481574bf02bb11ef07a7047b"
+  } ]
 }

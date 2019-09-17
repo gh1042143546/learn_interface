@@ -1,9 +1,12 @@
 # -*- coding:utf-8 -*-
-import pytest
 import allure
+import pytest
+
 #from utils.assertion import assertHTTPCode
-from Utils.client import *
-from Utils.readCase import read_params
+from utils.client import *
+from utils.readCase import read_params
+
+
 '''
 #@allure.feature("测试接口")
 @pytest.fixture(params=['base_url'])
@@ -21,9 +24,11 @@ def readInfo(request):
 
 
 class TestBaiDuHTTP:
-    path_dir = os.path.split(os.path.realpath(__file__))[1]#项目目录
-    print(path_dir)
-    readyaml = read_params(r'/learn_interface/date/cases/denglu.yaml')
+    path_dir = os.path.split(os.path.realpath(__file__))[0]#项目目录
+    #readyaml = read_params('E:\lygInterface\learn_interface\learn_interface\date\cases\denglu.yaml')
+    b = os.getcwd()
+    print("当前工作目录"+b)
+    readyaml = read_params('../../date/cases/denglu.yaml')
     paramdate = readyaml.get_params()
     #print(paramdate)S
     @allure.feature('登录模块')
@@ -52,4 +57,5 @@ class TestBaiDuHTTP:
 
 
 if __name__ == '__main__':
-    pytest.main(['-s', '-q', '--alluredir','../../result/'])
+    pytest.main(['-s', '-q', '--alluredir', '../../result'])
+

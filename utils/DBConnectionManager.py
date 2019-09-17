@@ -1,5 +1,5 @@
 import pymysql
-from Utils.config import Config
+from utils.config import Config
 
 config_read = Config()
 db_host = config_read.get('DBconfig')['host']

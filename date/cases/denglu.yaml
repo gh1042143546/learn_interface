@@ -2,8 +2,6 @@
   Interface_Path: gatekeeper/api/auth/login
   detail: 正常登陆
   method: POST
-  variable_binds:
-        - random: ${gen_random_string(5)}
   data:
     mobile: 18016220960
     password: 123456

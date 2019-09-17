@@ -2,7 +2,7 @@
 import yaml
 import os
 import re
-from  Utils import support
+from utils import support
 class YamlReader:
     def __init__(self,yamlfilePath):
         if os.path.exists(yamlfilePath):
@@ -19,6 +19,6 @@ class YamlReader:
         return casedate
 
 if __name__== '__main__':
-    testdata = []
+    path_dir = os.path.split(os.path.realpath(__file__))[0]#项目目录
     reader = YamlReader('../date/cases/denglu.yaml')
-    print(reader.read_case())
+    reader.read_case()

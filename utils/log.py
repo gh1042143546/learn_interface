@@ -7,7 +7,7 @@ logger.info('test log')
 import os
 import logging
 from logging.handlers import TimedRotatingFileHandler
-from Utils.config import Config,LOG_PATH
+from utils.config import Config,LOG_PATH
 class Logger(object):
     def __init__(self,logger_name='InterFace'):
         #创建logger，如果参数为空则返回root logger

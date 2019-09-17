@@ -1,6 +1,1 @@
-{
-  "test_baidu.py": true,
-  "test_baidu.py::TestBaiDuHTTP::()::test_case[gatekeeper/api/auth/login-POST-date1-check1]": true,
-  "test_baidu.py::TestBaiDuHTTP::()::test_tk[base_url]": true,
-  "yh.py::TestBaiDuHTTP::()::test_tk": true
-}
+{}

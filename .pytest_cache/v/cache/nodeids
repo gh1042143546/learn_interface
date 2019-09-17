@@ -1,1 +1,4 @@
-[]
+[
+  "test/testcase/test_baidu.py::TestBaiDuHTTP::test_case[\\u6b63\\u5e38\\u767b\\u5f55]",
+  "test/testcase/test_baidu.py::TestBaiDuHTTP::test_case[\\u5f02\\u5e38\\u767b\\u5f55]"
+]
