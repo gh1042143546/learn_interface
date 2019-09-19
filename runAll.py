@@ -23,4 +23,4 @@ if __name__ == '__main__':
     except Exception:
         logger.error('执行用例失败，请检查环境配置')
         raise
-tester
+    qwer
