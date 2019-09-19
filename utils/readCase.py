@@ -30,3 +30,4 @@ class read_params:
 if __name__== '__main__':
     b = read_params('../date/cases/denglu.yaml')
     print(b.get_params())
+qwer

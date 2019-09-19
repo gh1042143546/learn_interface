@@ -2,6 +2,7 @@
 import allure
 import pytest
 
+
 #from utils.assertion import assertHTTPCode
 from utils.client import *
 from utils.readCase import read_params
@@ -25,10 +26,8 @@ def readInfo(request):
 
 class TestBaiDuHTTP:
     path_dir = os.path.split(os.path.realpath(__file__))[0]#项目目录
-    #readyaml = read_params('E:\lygInterface\learn_interface\learn_interface\date\cases\denglu.yaml')
-    b = os.getcwd()
-    print("当前工作目录"+b)
-    readyaml = read_params('../../date/cases/denglu.yaml')
+    readyaml = read_params('E:\learn_interface\date\cases\denglu.yaml')
+    #readyaml = read_params('../../date/cases/denglu.yaml')
     paramdate = readyaml.get_params()
     #print(paramdate)S
     @allure.feature('登录模块')
@@ -59,3 +58,4 @@ class TestBaiDuHTTP:
 if __name__ == '__main__':
     pytest.main(['-s', '-q', '--alluredir', '../../result'])
 
+qwer

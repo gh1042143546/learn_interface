@@ -1,0 +1,21 @@
+[ {
+  "uid" : "1979fac5cb6e2339",
+  "name" : "冒烟测试_所有算子运行_正常测试",
+  "time" : {
+    "start" : 1568861519907,
+    "stop" : 1568861520359,
+    "duration" : 452
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2302a8417361374a",
+  "name" : "冒烟测试_所有算子运行_正常测试",
+  "time" : {
+    "start" : 1568861520455,
+    "stop" : 1568861520561,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -9,16 +9,20 @@ class YamlReader:
             self.yamlfilePath = yamlfilePath
         else:
             raise FileNotFoundError('文件不存在！')
+
     def read_date(self):
         file = open(self.yamlfilePath,encoding='UTF-8')
-        date = list((yaml.load_all(file)))
+        date = list((yaml.load_all(file,Loader=yaml.FullLoader)))
         return date
+
     def read_case(self):
         file = open(self.yamlfilePath,encoding='UTF-8')
-        casedate = yaml.load(file)
+        casedate = yaml.load(file,Loader=yaml.FullLoader)
         return casedate
 
 if __name__== '__main__':
     path_dir = os.path.split(os.path.realpath(__file__))[0]#项目目录
     reader = YamlReader('../date/cases/denglu.yaml')
-    reader.read_case()
+    b = reader.read_case()
+    print(b)
+qwer

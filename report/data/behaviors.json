@@ -1,0 +1,37 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "登录模块",
+    "children" : [ {
+      "name" : "登录接口",
+      "children" : [ {
+        "name" : "冒烟测试_所有算子运行_正常测试",
+        "uid" : "1979fac5cb6e2339",
+        "parentUid" : "a96082a673a92859c3643f7f05d73935",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568861519907,
+          "stop" : 1568861520359,
+          "duration" : 452
+        },
+        "flaky" : false,
+        "parameters" : [ "{'code': 0, 'message': 'success'}", "{'mobile': 18016220960, 'password': 123456, 'verify_code': 2}", "'POST'", "'gatekeeper/api/auth/login'" ]
+      }, {
+        "name" : "冒烟测试_所有算子运行_正常测试",
+        "uid" : "2302a8417361374a",
+        "parentUid" : "a96082a673a92859c3643f7f05d73935",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568861520455,
+          "stop" : 1568861520561,
+          "duration" : 106
+        },
+        "flaky" : false,
+        "parameters" : [ "{'code': 1, 'message': '密码不能为空。'}", "{'mobile': 18016220960, 'password': None, 'verify_code': 2}", "'POST'", "'gatekeeper/api/auth/login'" ]
+      } ],
+      "uid" : "a96082a673a92859c3643f7f05d73935"
+    } ],
+    "uid" : "6958045a481574bf02bb11ef07a7047b"
+  } ]
+}

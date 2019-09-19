@@ -1,0 +1,121 @@
+{
+  "uid" : "1979fac5cb6e2339",
+  "name" : "冒烟测试_所有算子运行_正常测试",
+  "fullName" : "test.testcase.test_baidu.TestBaiDuHTTP#test_case",
+  "historyId" : "59f643b2f265e5f623d0cad9aeb89c6f",
+  "time" : {
+    "start" : 1568861519907,
+    "stop" : 1568861520359,
+    "duration" : 452
+  },
+  "description" : "用例描述：登录验证\n        URL:参数一\n        method:参数二\n        date:参数三\n        check:参数四\n        ",
+  "descriptionHtml" : "<p>用例描述：登录验证\nURL:参数一\nmethod:参数二\ndate:参数三\ncheck:参数四</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "用例描述：登录验证\n        URL:参数一\n        method:参数二\n        date:参数三\n        check:参数四\n        ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "获取登录接口返回值，结果校验 0 == 0",
+      "time" : {
+        "start" : 1568861520351,
+        "stop" : 1568861520351,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "5cfce7fba4269b2f",
+      "name" : "{'self': <test.testcase.test_baidu.TestBaiDuHTTP object at 0x000001BFFAFEEBC8>, 'url': 'gatekeeper/api/auth/login', 'method': 'POST', 'date': {'mobile': 18016220960, 'password': 123456, 'verify_code': 2}, 'check': {'code': 0, 'message': 'success'}}",
+      "source" : "5cfce7fba4269b2f.attach",
+      "type" : "text/plain",
+      "size" : 12
+    }, {
+      "uid" : "fa12c4811b514d22",
+      "name" : "log",
+      "source" : "fa12c4811b514d22.txt",
+      "type" : "text/plain",
+      "size" : 10954
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "登录接口"
+  }, {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test.testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_baidu"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBaiDuHTTP"
+  }, {
+    "name" : "host",
+    "value" : "CJPC-124"
+  }, {
+    "name" : "thread",
+    "value" : "25736-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.testcase.test_baidu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "check",
+    "value" : "{'code': 0, 'message': 'success'}"
+  }, {
+    "name" : "date",
+    "value" : "{'mobile': 18016220960, 'password': 123456, 'verify_code': 2}"
+  }, {
+    "name" : "method",
+    "value" : "'POST'"
+  }, {
+    "name" : "url",
+    "value" : "'gatekeeper/api/auth/login'"
+  } ],
+  "links" : [ {
+    "name" : "用例名：登录校验",
+    "url" : "用例名：登录校验",
+    "type" : "test_case"
+  }, {
+    "name" : "BUG号：123",
+    "url" : "BUG号：123",
+    "type" : "issue"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1979fac5cb6e2339.json",
+  "parameterValues" : [ "{'code': 0, 'message': 'success'}", "{'mobile': 18016220960, 'password': 123456, 'verify_code': 2}", "'POST'", "'gatekeeper/api/auth/login'" ]
+}

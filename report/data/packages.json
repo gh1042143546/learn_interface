@@ -1,0 +1,33 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test.testcase.test_baidu",
+    "children" : [ {
+      "name" : "冒烟测试_所有算子运行_正常测试",
+      "uid" : "1979fac5cb6e2339",
+      "parentUid" : "48961003c78e4da89d94b6189090e508",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568861519907,
+        "stop" : 1568861520359,
+        "duration" : 452
+      },
+      "flaky" : false,
+      "parameters" : [ "{'code': 0, 'message': 'success'}", "{'mobile': 18016220960, 'password': 123456, 'verify_code': 2}", "'POST'", "'gatekeeper/api/auth/login'" ]
+    }, {
+      "name" : "冒烟测试_所有算子运行_正常测试",
+      "uid" : "2302a8417361374a",
+      "parentUid" : "48961003c78e4da89d94b6189090e508",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568861520455,
+        "stop" : 1568861520561,
+        "duration" : 106
+      },
+      "flaky" : false,
+      "parameters" : [ "{'code': 1, 'message': '密码不能为空。'}", "{'mobile': 18016220960, 'password': None, 'verify_code': 2}", "'POST'", "'gatekeeper/api/auth/login'" ]
+    } ],
+    "uid" : "test.testcase.test_baidu"
+  } ]
+}

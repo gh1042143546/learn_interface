@@ -1,0 +1,4 @@
+INFO     InterFace:client.py:39 POST https://latest-test-omapi.lygou.cc/gatekeeper/api/auth/login
+INFO     InterFace:client.py:40 请求成功: <Response [200]>
+                                {"code":1,"data":[],"message":"\u5bc6\u7801\u4e0d\u80fd\u4e3a\u7a7a\u3002"}
+INFO     InterFace:test_baidu.py:51 {"code":1,"data":[],"message":"\u5bc6\u7801\u4e0d\u80fd\u4e3a\u7a7a\u3002"}
