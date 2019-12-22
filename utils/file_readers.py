@@ -1,9 +1,12 @@
 # -*- coding:utf-8 -*-
+from gooey import Gooey,GooeyParser
 import yaml
 import os
 import re
 from utils import support
 class YamlReader:
+    parser = GooeyParser(description="My Cool Gooey App!")
+    parser.add_argument('filename', help="name of the file to process", widget='FileChooser')
     def __init__(self,yamlfilePath):
         if os.path.exists(yamlfilePath):
             self.yamlfilePath = yamlfilePath
@@ -25,4 +28,3 @@ if __name__== '__main__':
     reader = YamlReader('../date/cases/denglu.yaml')
     b = reader.read_case()
     print(b)
-qwer
